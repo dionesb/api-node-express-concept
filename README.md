@@ -1,6 +1,6 @@
-# Conceitos do NodeJS
+# Api Node com Express
 
-Aplicação criada do zero utilizando Express.
+Api conceito com Node e Express
 
 Essa aplicação será utilizada para armazenar projetos e suas tarefas.
 
