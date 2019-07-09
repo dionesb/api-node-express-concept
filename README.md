@@ -2,7 +2,7 @@
 
 Api conceito com Node e Express
 
-Essa aplicação será utilizada para armazenar projetos e suas tarefas.
+Essa aplicação armazenar projetos e suas tarefas.
 
 ## Rotas
 
