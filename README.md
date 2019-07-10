@@ -1,8 +1,8 @@
 # Api Node com Express.
 
-Api conceito com Node e Express
+Api conceito com Node e Express, criada para teste das tecnologias.
 
-Essa aplicação armazenar projetos e suas tarefas.
+Essa aplicação armazena projetos e suas tarefas.
 
 ## Rotas
 
